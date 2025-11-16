@@ -16,6 +16,13 @@ This project is an end-to-end AI-powered system that automatically:
 It is designed for e-commerce, customer experience analytics, cloud engineering, and AI/ML automation.
 
 🏗️ Architecture
+
+## 🏗️ System Architecture
+
+Below is the architecture diagram representing the full workflow:
+
+![Architecture Diagram](https://raw.githubusercontent.com/15912315/Sentiment-Insights.-An-AWS-Powered-Customer-Review-Analysis-and-Summarization-System/main/architectureimage)
+
 📁 User Uploads CSV → S3 Bucket  
       ⬇  
 ⚡ Lambda (process-reviews-lambda)  
