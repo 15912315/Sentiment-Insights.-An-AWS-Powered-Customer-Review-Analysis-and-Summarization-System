@@ -34,6 +34,9 @@ Below is the architecture diagram representing the full workflow:
       → DynamoDB (ReviewSummaries1)  
       ⬇  
 📊 Amazon QuickSight Dashboard  
+## 📊 Published Dashboard – QuickSight Output
+
+Below is the published dashboard diagram representing the final visualization output of the sentiment analysis pipeline:
 
 🎯 Key Features
 🔍 1. Automated NLP Processing
